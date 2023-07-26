@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "P.H GANG",
+	"description": "PH Gvng (PHG) is the name of a Chilean group of friends who reside in a German village, Valparaíso, Chile. The name PHG originates from the fact that in 2022 a colleague named \"Pascal Hernández Gutiérrez\" passed away. He was part of this group that was previously called \"Fumamos Coca\", when the friend passed away, the name was changed in his honor to \"PH Gvng\" the PH for \"Pascal Hernández\" and \"Gvng\" It is for the initial of the second last name of our deceased partner (Gutiérrez) But since we are a group we decided to replace it with \"Gang\", which means \"gang\".",
+	"links": {
+		"website": [
+			"https://www.instagram.com/phgvng_/"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-784,
+				-821
+			],
+			[
+				-784,
+				-830
+			],
+			[
+				-784,
+				-831
+			],
+			[
+				-784,
+				-832
+			],
+			[
+				-804,
+				-832
+			],
+			[
+				-804,
+				-820
+			],
+			[
+				-784,
+				-820
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-794,
+			-826
+		]
+	}
+}
